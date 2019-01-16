@@ -1,1 +1,1 @@
-print("Holi Crayoli")
+print("Saludos, humanos")
